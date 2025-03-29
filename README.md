@@ -1,9 +1,9 @@
 # ¡Hola! 👋 Soy Royero23
 
 ## Sobre mí
-- 🌱 Actualmente estoy aprendiendo [tecnología o lenguaje que estás aprendiendo].
-- 👯 Estoy buscando colaborar en [proyectos o temas que te interesen].
-- 📫 Puedes contactarme en [tu correo electrónico o redes sociales].
+- 🌱 Actualmente estoy aprendiendo [electronica nivel II].
+- 👯 Estoy buscando colaborar en [proyectos o temas de electronica].
+- 📫 Puedes contactarme en [royerpcgamers@gmail.com].
 
 ## Tecnologías y Herramientas
 - [Lenguaje o herramienta 1]
