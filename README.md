@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Royero23
 
-<!--
-**Royero23/Royero23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+- 🌱 Actualmente estoy aprendiendo [tecnología o lenguaje que estás aprendiendo].
+- 👯 Estoy buscando colaborar en [proyectos o temas que te interesen].
+- 📫 Puedes contactarme en [tu correo electrónico o redes sociales].
 
-Here are some ideas to get you started:
+## Tecnologías y Herramientas
+- [Lenguaje o herramienta 1]
+- [Lenguaje o herramienta 2]
+- [Lenguaje o herramienta 3]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos Destacados
+- [Proyecto 1](enlace al proyecto): Descripción breve del proyecto.
+- [Proyecto 2](enlace al proyecto): Descripción breve del proyecto.
+
+## Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Royero23&show_icons=true&theme=radical)
+
+## Lenguajes más usados
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Royero23&layout=compact&theme=radical)
